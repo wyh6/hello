@@ -1,3 +1,3 @@
 # hello
 first
-use it very goot
+use it very good
